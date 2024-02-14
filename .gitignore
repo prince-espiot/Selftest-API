@@ -1,0 +1,15 @@
+.vs
+*.user
+*.aps
+AitoTestDebug.log
+git_commit_id.h
+Aito*.txt
+Update*.*
+x64
+2212000557.txt
+*.idea
+API For Production Testing_files
+*.txt
+ARM
+ARM64
+version.rc
